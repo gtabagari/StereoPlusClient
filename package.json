@@ -1,0 +1,36 @@
+{
+  "name": "testquasar",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Quasar App",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "Giorgi Tabagari <g.tabagari@hotmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "quasar": "^1.0.0",
+    "store": "^2.0.12",
+    "vue-socket.io": "^3.0.7",
+    "socket.io-client": "latest",
+    "vue-router": "latest",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "node-sass": "^4.13.1",
+    "pages": "0.0.16",
+    "sass-loader": "^8.0.2"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
