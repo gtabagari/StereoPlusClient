@@ -20,7 +20,7 @@
     "vue": "latest"
   },
   "devDependencies": {
-    "@quasar/app": "^1.0.0",
+    "@quasar/app": "^3.3.3",
     "node-sass": "^4.13.1",
     "pages": "0.0.16",
     "sass-loader": "^8.0.2"
